@@ -1,0 +1,10 @@
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Batalla\Batalla\bin\Debug\Batalla.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\bin\Debug\Batalla.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\bin\Debug\Batalla.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\bin\Debug\Batalla.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\obj\Debug\Batalla.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\obj\Debug\Batalla.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\obj\Debug\Batalla.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\obj\Debug\Batalla.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\obj\Debug\Batalla.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\7. Batalla\Batalla\obj\Debug\Batalla.pdb
